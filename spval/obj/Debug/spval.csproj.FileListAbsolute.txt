@@ -1,0 +1,8 @@
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spval\bin\Debug\spval.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spval\bin\Debug\spval.pdb
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spval\obj\Debug\spval.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spval\obj\Debug\spval.pdb
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spval\bin\Debug\spval.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spval\bin\Debug\spval.pdb
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spval\obj\Debug\spval.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spval\obj\Debug\spval.pdb

@@ -1,0 +1,12 @@
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon2\bin\Debug\spcon2.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon2\bin\Debug\spcon2.pdb
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon2\bin\Debug\spcon.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon2\obj\Debug\spcon2.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon2\obj\Debug\spcon2.pdb
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon2\obj\Debug\spcon2.csprojResolveAssemblyReference.cache
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon2\bin\Debug\spcon2.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon2\bin\Debug\spcon2.pdb
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon2\bin\Debug\spcon.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon2\obj\Debug\spcon2.csprojResolveAssemblyReference.cache
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon2\obj\Debug\spcon2.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon2\obj\Debug\spcon2.pdb

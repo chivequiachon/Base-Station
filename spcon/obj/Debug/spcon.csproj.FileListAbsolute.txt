@@ -1,0 +1,8 @@
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon\bin\Debug\spcon.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon\bin\Debug\spcon.pdb
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon\obj\Debug\spcon.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\spcon\obj\Debug\spcon.pdb
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon\bin\Debug\spcon.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon\bin\Debug\spcon.pdb
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon\obj\Debug\spcon.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\spcon\obj\Debug\spcon.pdb

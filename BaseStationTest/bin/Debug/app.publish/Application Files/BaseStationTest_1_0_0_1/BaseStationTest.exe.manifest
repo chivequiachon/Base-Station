@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BaseStationTest.exe" version="1.0.0.1" publicKeyToken="0f6c3edba3442cdb" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="BaseStationTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="BaseStationTest.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BaseStationTest.exe" size="44032">
+      <assemblyIdentity name="BaseStationTest" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Puzgl5UVDDPZGBQ1r0wKfV7CX+sNzotdMebGvAaHl5o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="spcom.dll" size="11776">
+      <assemblyIdentity name="spcom" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>j3M0/rBX7Miz5k7QBKCjtwjGiiB0Pip+FwDbVxUMLjs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="spcon.dll" size="7680">
+      <assemblyIdentity name="spcon" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YscV4NUlzKbtGUa3SWWR/FlOpiTCJF0Jp4yvl0gvR0g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="spcon2.dll" size="7168">
+      <assemblyIdentity name="spcon2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>TyHSE8ppEfB9F2P1ckMV1vHu2J8LaZymnmGZesZbc9s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="sptypes.dll" size="5632">
+      <assemblyIdentity name="sptypes" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>z1uRPDL94pplAfU2lFQHK0NQieHPOxbmV1gZdoc96Vo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="spval.dll" size="5120">
+      <assemblyIdentity name="spval" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>2AY/VOKYWbQMAvgTuwe7gDzA16T+L6iJ0qfznPsVTmw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BaseStationTest.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Chive2-PC\Chive2" issuerKeyHash="8c5be3cf79aec528cecad310edbdaf0b16500245" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uy63PZnwAH+7pDoLVqjsg/U1zvpbGwMwlql0uYqrUXI=</DigestValue></Reference></SignedInfo><SignatureValue>DFf1VW/ynuXpxF1ZeZ06aLFQxtzWuLfMB9/CLc7ME4sVcjFazvo/vh+DLP2wvrSRtVSiOjblEqqWuMFiWm3d/Q8bb0PGyp1zBQuiClcJi+WiuwPul/X8XPLkka/GDCgWPLVDZtyINCr/9H7IoDdk9c0f++3cjaEYbcoslFh425w=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1CQaq5xfEugwJj1Tpqbz9eBXYOx97IIExp15tm5JYa6aWWHFA6pZG07yx9l4W7T5ocCSmD3JTM9JzMp9QW4xQ+mYrywo7tOs+LW80RWbcZZexQ5F2FJflCgsYpou0zqLdgv2Zlo/OTMQBTZhPGjxos50emIIfbDXgOMdyfJj+u8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7251ab8ab974a99630031b5bface35f583eca8560b3aa4bb7f00f0993db72ebb" Description="" Url=""><as:assemblyIdentity name="BaseStationTest.exe" version="1.0.0.1" publicKeyToken="0f6c3edba3442cdb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Chive2-PC\Chive2</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>hvKXL/RON9tGos+/4F8JIpQaH4Gxi2iL+HIwHbOzW0M=</DigestValue></Reference></SignedInfo><SignatureValue>sTI4xNECP4z+ippXUKgscwROE8ia1kcoYf9sxdAb43NWBEWJCcXR4aktcxR4Ddb3xX6i4UiMk8mKk3GxsIJirbyxppUybrDtgGN2XIArelVcHrR07buDjO634VD6PKAGmuhYdZllhpk/eALbQDDL5t4ZOOpzJ8t0XYjA1++Til4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1CQaq5xfEugwJj1Tpqbz9eBXYOx97IIExp15tm5JYa6aWWHFA6pZG07yx9l4W7T5ocCSmD3JTM9JzMp9QW4xQ+mYrywo7tOs+LW80RWbcZZexQ5F2FJflCgsYpou0zqLdgv2Zlo/OTMQBTZhPGjxos50emIIfbDXgOMdyfJj+u8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQQ406XurkDINInnw6nHaBRDANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAQwBoAGkAdgBlADIALQBQAEMAXABDAGgAaQB2AGUAMjAeFw0xNTAxMDQxNTI4NTZaFw0xNjAxMDQyMTI4NTZaMCsxKTAnBgNVBAMeIABDAGgAaQB2AGUAMgAtAFAAQwBcAEMAaABpAHYAZQAyMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUJBqrnF8S6DAmPVOmpvP14Fdg7H3sggTGnXm2bklhrppZYcUDqlkbTvLH2XhbtPmhwJKYPclMz0nMyn1BbjFD6ZivLCju06z4tbzRFZtxll7FDkXYUl+UKCximi7TOot2C/ZmWj85MxAFNmE8aPGiznR6Ygh9sNeA4x3J8mP67wIDAQABMA0GCSqGSIb3DQEBCwUAA4GBANGzy/HkiRbTsRxtd1gyKTIRMLiw21X3h6x1AnMQymfD9hFvbpY6ma+3PfBqu+W3fm91dGcZ7DZO0eQy05VplaWLTlGiA3ldIqb3xTCoNrX30WhMHJdk8m2lLZQ0uJhnS/z8OZWWAU5nLJCKQ6WnNGu1HpfAbWDUE9mkw2hz3/xs</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,23 @@
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\bin\Debug\sptypes.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\bin\Debug\sptypes.pdb
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\obj\Debug\sptypes.dll
+C:\Users\Chive2\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\obj\Debug\sptypes.pdb
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\BaseStation\ConsoleApplication1\sptypes\obj\Debug\sptypes.dll
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\BaseStation\ConsoleApplication1\sptypes\obj\Debug\sptypes.pdb
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\BaseStation\ConsoleApplication1\sptypes\bin\Debug\sptypes.dll
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\BaseStation\ConsoleApplication1\sptypes\bin\Debug\sptypes.pdb
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\bin\Debug\sptypes.dll
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\bin\Debug\sptypes.pdb
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\obj\Debug\sptypes.dll
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\obj\Debug\sptypes.pdb
+C:\Users\Chive\Documents\Visual Studio 2012\Projects\C# Projects\BaseStation\ConsoleApplication1\sptypes\obj\Debug\sptypes.csprojResolveAssemblyReference.cache
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\bin\Debug\sptypes.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\bin\Debug\sptypes.pdb
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\obj\Debug\sptypes.csprojResolveAssemblyReference.cache
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\obj\Debug\sptypes.dll
+C:\Users\Kasumi\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\obj\Debug\sptypes.pdb
+C:\Users\Tadz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\bin\Debug\sptypes.dll
+C:\Users\Tadz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\bin\Debug\sptypes.pdb
+C:\Users\Tadz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\obj\Debug\sptypes.csprojResolveAssemblyReference.cache
+C:\Users\Tadz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\obj\Debug\sptypes.dll
+C:\Users\Tadz\Documents\Visual Studio 2012\Projects\ConsoleApplication1\sptypes\obj\Debug\sptypes.pdb
